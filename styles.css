@@ -1,0 +1,13 @@
+body {
+  background-color: #bbf9ed;
+}
+.img1 {
+  width: 300px;
+  height: 300px;
+}
+hr {
+  border-style: dotted none none;
+  width: 4%;
+  border-width: 5px;
+  border-color: rgb(105, 105, 105);
+}
